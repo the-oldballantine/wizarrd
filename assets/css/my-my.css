@@ -3,270 +3,297 @@
   font-size: 18px;
 }
 .hero-text h1 {
-    font-size: 35px !important;
-    text-align: left !important;
-    font-weight: 600 !important;
-    line-height: 53px !important;
-    color: #2E3C7D;
-  }
-  .formm h3 {
-    font-weight: 600;
-    margin-bottom: 3%;
-    font-size: 35px;
-  }
-  .group-img {
-    margin-bottom: 2.2%;
-  }
-  .redefine {
-    font-size: 35px !important;
-    font-weight: 600;
-  }
-  .always {
-    padding: 20px 20px;
-    text-align: center;
-    font-size: 18px;
-    margin-bottom: 1.5%;
-  }
-  .cta a {
-    background-color: #32589c !important;
-    color: #fff !important;
-    padding: 18px 50px !important;
-    border-radius: 32px !important;
-    text-decoration: none !important;
-    font-size: 22px !important;
-    margin-top: 35px;
-  }
-  .hero-text p {
-    font-size: 22px;
-    font-weight: 500;
-    line-height: 38px;
-    width: 80%;
-    padding-bottom: 45px;
-  }
-  .cta {
-    padding-top: 3.6%;
-    text-align: center;
-  }
-  .gap {
-    padding: 35px 0 !important;
-  }
-  .heading h2 {
-    font-size: 35px !important;
-    font-weight: 600 !important;
+  font-size: 40px !important;
+  text-align: left !important;
+  font-weight: 800 !important;
+  line-height: 53px;
+  color: #2e3c7d;
+}
+.formm h3 {
+  font-weight: 600;
+  margin-bottom: 3%;
+  font-size: 35px;
+}
+.group-img {
+  margin-bottom: 2.2%;
+}
+.redefine {
+  font-size: 35px !important;
+  font-weight: 600;
+}
+.always {
+  padding: 20px 20px;
+  text-align: center;
+  font-size: 18px;
+  margin-bottom: 1.5%;
+}
+.cta a {
+  background-color: #32589c !important;
+  color: #fff !important;
+  padding: 18px 50px !important;
+  border-radius: 32px !important;
+  text-decoration: none !important;
+  font-size: 22px !important;
+  margin-top: 35px;
+}
+.hero-text p {
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 38px;
+  width: 80%;
+  padding-bottom: 45px;
+}
+.cta {
+  padding-top: 3.6%;
+  text-align: center;
+}
+.gap {
+  padding: 70px 0 !important;
+}
+.heading h2 {
+  font-size: 35px;
+  font-weight: 600 !important;
 
-    text-align: left !important;
-    line-height: 53px !important;
-    margin-bottom: 10px;
-  }
-  .headingg h2 {
-    font-size: 35px !important;
-    font-weight: 600 !important;
-    padding: 1.5%;
-    text-align: center !important;
-    line-height: 53px !important;
-    margin-bottom: 10px;
-  }
-  
-  .mostt {
-    font-size: 21px;
-    padding: 1.1%;
-    margin-bottom: 4px;
-  }
-  .cta.lets {
-    margin-top: 50px;
-    padding-top: 1.9%;
-  }
-  .provide img.shaps-dots {
-    right: auto !important;
-    bottom: 70%;
-    z-index: 0;
-    left: 6%;
-  }
-  .cta.letss {
-    margin-top: 50px;
-    padding-top: 1.9%;
-    margin-bottom: 12px;
-  }
-  
-  .cta.letsss {
-    margin-top: 130px;
-    padding-top: 1.9%;
-    margin-bottom: 30px;
-  }
-  .pricing-plan-style {
-    height: 320px;
-  }
-  
-  .button-container {
-    display: flex;
-    justify-content: center; /* Centers the button horizontally */
-    align-items: center; /* Centers the button vertically (if the container has height) */
-  }
-  .alwayss {
-    padding: 20px 20px;
-    text-align: center;
-  }
-  ul.social-icon i {
-    font-size: 25px;
-  }
-
-  .service-text {
-    padding: 1.4%;
-  }
-  
-  @media (max-width: 768px) {
-    /* Adjust the max-width as needed */
-    .hero-text h1 {
-      text-align: center !important; /* Center text on mobile */
-    }
-    .heading span{
-        text-align: center !important;
-    }
-    .heading h2{
-text-align: center !important;
-    }
-    .headinggg span{
-      text-align: left !important;
-  }
-  .headinggg h2{
-text-align: left !important;
-  }
-    .hero-text p {
-      text-align: center;
-      width: 100% !important;
-    }
-    .center-button {
-      width: 100%; /* Adjust width as needed */
-      padding: 10px; /* Adjust padding for better touch targets */
-    }
-    .video {
-      display: none;
-    }
-        .cta{
-      padding: 15% !important;
-    }
-    .team-text {
-      height: 435px;
-    }
-    .team-text h5{
-      font-size: 20px;
-      margin-top: 20px;
-    }
-    .join-now-text h3{
-      text-align: center;
-    }
-    .join-now-text h6{
-      text-align: center;
-    }
- 
-  }
-  
-  .stats {
-    display: flex;
-    flex-wrap: wrap;
-    /* Ensures flex items wrap on smaller screens */
-    justify-content: space-around;
-    text-align: center;
-    margin-bottom: 35px;
-  }
-  
-  .stat-item {
-    background-color: #fff;
-    padding: 20px;
-    margin-right: 5px;
-    border-radius: 10px;
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
-    width: 100%;
-    /* Full width on mobile */
-    max-width: 320px;
-    /* Controls max width of items */
-  }
-  
-  @media (min-width: 768px) {
-    .stat-item {
-      width: 100%;
-      /* For Bootstrap's col-md-4 class to take effect */
-    }
-
-  }
-  
-  .stat-item h3 {
-    font-size: 35px;
-    color: #ff6347;
-    margin-bottom: 10px;
-  }
-  
-  .stat-item p {
-    font-size: 18px;
-    color: #666;
-  }
-
-  .consulting {
-    margin-top: 15px !important;
-  }
-.headinngg h2{
-    font-weight: 600 !important;
-    padding: 1.5%;
-    text-align: center !important;
-    line-height: 53px !important;
-    margin-bottom: 10px;
-  }
-  .headinggg span{
-    font-size: 18px;
-    letter-spacing: 1px;
-    color: #2E3C7D;
-    font-weight: 900;
-    padding-bottom: 10px;
-    display: block;
-    text-transform: uppercase;
-  }
-
-
-  .headinngg span{
-    font-size: 18px;
-    letter-spacing: 1px;
-    color: #2E3C7D;
-    font-weight: 900;
-    padding-bottom: 10px;
-    display: block;
-    text-transform: uppercase;
-  }
-
-  .mt-3{
-    margin-top: 3% !important;
-  }
-  .button-container {
-    text-align: center;
+  text-align: left !important;
+  line-height: 53px;
+  margin-bottom: 10px;
+}
+.headingg h2 {
+  font-size: 35px;
+  font-weight: 600 !important;
+  padding: 1.5%;
+  text-align: center !important;
+  line-height: 53px;
+  margin-bottom: 10px;
 }
 
-.center-buttonn {
-    display: inline-block;
+.mostt {
+  font-size: 21px;
+  padding: 1.1%;
+  margin-bottom: 4px;
+}
+.cta.lets {
+  margin-top: 50px;
+  padding-top: 1.9%;
+}
+.provide img.shaps-dots {
+  right: auto !important;
+  bottom: 70%;
+  z-index: 0;
+  left: 6%;
+}
+.cta.letss {
+  margin-top: 50px;
+  padding-top: 1.9%;
+  margin-bottom: 12px;
+}
+
+.cta.letsss {
+  margin-top: 130px;
+  padding-top: 1.9%;
+  margin-bottom: 30px;
+}
+.pricing-plan-style {
+  height: 320px;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center; /* Centers the button horizontally */
+  align-items: center; /* Centers the button vertically (if the container has height) */
+}
+.alwayss {
+  padding: 20px 20px;
+  text-align: center;
+}
+ul.social-icon i {
+  font-size: 25px;
+}
+
+.service-text {
+  padding: 1.4%;
 }
 
 @media (max-width: 768px) {
-    .center-buttonn {
-        text-align: center;
-    }
-    .service-img{
-      display: none;
-    }
-    .service-text.three {margin-top: 30px};
+  /* Adjust the max-width as needed */
+  .hero-text h1 {
+    text-align: center !important; /* Center text on mobile */
+  }
+  .heading span {
+    text-align: center !important;
+  }
+  .heading h2 {
+    text-align: center !important;
+    font-size: 25px !important;
+    line-height: 32px !important;
+  }
+  .headinggg span {
+    text-align: left !important;
+  }
+  .headinggg h2 {
+    text-align: left !important;
+    font-size: 25px !important;
+    line-height: 32px !important;
+  }
+  .hero-text p {
+    text-align: center;
+    width: 100% !important;
+  }
+  .center-button {
+    width: 100%; /* Adjust width as needed */
+    padding: 10px; /* Adjust padding for better touch targets */
+  }
+  .video {
+    display: none;
+  }
+  .cta {
+    padding: 15% 0 0 0 !important;
+  }
+  .team-text {
+    height: 427px;
+  }
+  .team-text h5 {
+    font-size: 20px;
+    margin-top: 20px;
+  }
+  .join-now-text h3 {
+    text-align: center;
+  }
+  .join-now-text h6 {
+    text-align: center;
+  }
+}
+
+.stats {
+  display: flex;
+  flex-wrap: wrap;
+  /* Ensures flex items wrap on smaller screens */
+  justify-content: space-around;
+  text-align: center;
+  margin-bottom: 35px;
+}
+
+.stat-item {
+  background-color: #fff;
+  padding: 20px;
+  margin-right: 5px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  /* Full width on mobile */
+  max-width: 320px;
+  /* Controls max width of items */
+}
+
+@media (min-width: 768px) {
+  .stat-item {
+    width: 100%;
+    /* For Bootstrap's col-md-4 class to take effect */
+  }
+}
+
+.stat-item h3 {
+  font-size: 35px;
+  color: #ff6347;
+  margin-bottom: 10px;
+}
+
+.stat-item p {
+  font-size: 18px;
+  color: #666;
+}
+
+.consulting {
+  margin-top: 15px !important;
+}
+.headinngg h2 {
+  font-weight: 600 !important;
+  padding: 1.5%;
+  text-align: center !important;
+  line-height: 53px;
+  margin-bottom: 10px;
+}
+.headinggg span {
+  font-size: 18px;
+  letter-spacing: 1px;
+  color: #2e3c7d;
+  font-weight: 900;
+  padding-bottom: 10px;
+  display: block;
+  text-transform: uppercase;
+}
+
+.headinngg span {
+  font-size: 18px;
+  letter-spacing: 1px;
+  color: #2e3c7d;
+  font-weight: 900;
+  padding-bottom: 10px;
+  display: block;
+  text-transform: uppercase;
+}
+
+.mt-3 {
+  margin-top: 3% !important;
+}
+.button-container {
+  text-align: center;
+}
+
+.center-buttonn {
+  display: inline-block;
+}
+
+@media (max-width: 768px) {
+  .center-buttonn {
+    text-align: center;
+  }
+  .service-img {
+    display: none;
+  }
+  .service-text.three {
+    margin-top: 30px;
+  }
+  .about{
+    background-image: url('../img/aasfd.png'); /* Replace with your image */
+    
+    background-attachment: fixed; /* Parallax effect */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .about .contentt {
+    position: relative;
+    z-index: 2; /* To make sure content stays above the overlay */
+  }
+  
 }
 @media (max-width: 576px) {
   .heading span {
-      font-size: 16px !important;
-      margin-bottom: 5px;
+    font-size: 16px !important;
+    margin-bottom: 5px;
   }
 }
 @media (max-width: 391px) {
   .top-bar a {
-      font-size: 11px !important;
+    font-size: 11px !important;
   }
 }
 .headinggg h2 {
-  font-size: 35px !important;
+  font-size: 35px;
   font-weight: 600 !important;
   text-align: left !important;
-  line-height: 53px !important;
+  line-height: 53px;
   margin-bottom: 10px;
+}
+.about {
+  border-bottom: 3px solid #000 !important;
+}
+.alwayssd {
+  font-weight: 600;
+  text-align: left;
+  padding-top: 10px;
+  font-size: 18px;
+  margin-bottom: 1.5%;
 }
