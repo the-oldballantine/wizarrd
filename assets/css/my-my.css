@@ -256,7 +256,7 @@ ul.social-icon i {
   }
   .about{
     background-image: url('../img/aasfd.png'); /* Replace with your image */
-    
+     height: 100%;
     background-attachment: fixed; /* Parallax effect */
     background-position: center;
     background-repeat: no-repeat;
