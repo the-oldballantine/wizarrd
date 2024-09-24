@@ -243,3 +243,8 @@ text-align: center !important;
       margin-bottom: 5px;
   }
 }
+@media (max-width: 480px) {
+  .top-bar a {
+      font-size: 11px !important;
+  }
+}
